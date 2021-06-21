@@ -1,0 +1,146 @@
+.callToAction {
+  background: #F8E61E;
+  height: 40px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+  margin-top: -40px;
+}
+
+.callToAction h2, .callToAction a {
+  padding-top: 10px;
+  color: #333;
+  font-weight: 900;
+}
+
+.popup {
+  display: block;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 9;
+}
+
+.popup:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup input {
+  height: 40px;
+  margin: 10px;
+}
+
+.popup h2 {
+  font-weight: 700;
+}
+
+.wrapperPopoUp {
+  margin: 70px auto;
+  padding: 20px;
+  background: rgb(65, 65, 65);
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+  align-items: center;
+  text-align: center;
+}
+
+.wrapperPopoUp .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.wrapperPopoUp .close:hover {
+  color: #CE5A5A;
+}
+
+.submit {
+  width: 100px;
+  background: #CE5A5A;
+  color: whitesmoke;
+}
+
+@media screen and (max-width: 768px) {
+  .callToAction {
+    background: #F8E61E;
+    height: 60px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    margin-top: 0px;
+  }
+  .callToAction h2, .callToAction a {
+    padding-top: 10px;
+    color: #333;
+    font-weight: 900;
+  }
+  .popup {
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 11;
+  }
+  .popup:target {
+    visibility: visible;
+    opacity: 1;
+  }
+  .popup input {
+    height: 40px;
+    margin: 10px;
+  }
+  .popup h2 {
+    font-weight: 700;
+  }
+  .wrapperPopoUp {
+    margin: 70px auto;
+    padding: 20px;
+    background: rgb(65, 65, 65);
+    border-radius: 5px;
+    width: 60%;
+    position: relative;
+    transition: all 5s ease-in-out;
+    align-items: center;
+    text-align: center;
+  }
+  .wrapperPopoUp .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .wrapperPopoUp .close:hover {
+    color: #CE5A5A;
+  }
+  .submit {
+    width: 100px;
+    background: #CE5A5A;
+    color: whitesmoke;
+  }
+}

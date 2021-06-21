@@ -1,0 +1,17 @@
+@media screen and (max-width: 678px) {
+  body {
+    display: flex;
+  }
+  .banner {
+    margin: 90px auto 0px;
+    position: relative;
+    display: block;
+    align-items: center;
+    justify-content: center;
+  }
+  .banner img {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+  }
+}

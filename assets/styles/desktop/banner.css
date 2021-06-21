@@ -1,0 +1,13 @@
+@media screen and (min-width: 1280px) {
+  .banner {
+    margin: 50px auto 0px;
+    position: relative;
+    display: block;
+    align-items: center;
+    justify-content: center;
+  }
+  .banner img {
+    width: 100%;
+    display: flex;
+  }
+}

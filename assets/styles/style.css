@@ -1,0 +1,46 @@
+/* Desktop */
+
+@import './desktop/header.css';
+@import './desktop/banner.css';
+@import './desktop/categories.css';
+@import './desktop/footer.css';
+/* Tablet */
+
+@import './tablet/header.css';
+@import './tablet/banner.css';
+@import './tablet/categories.css';
+@import './tablet/footer.css';
+/* phone */
+
+@import './phone/header.css';
+@import './phone/banner.css';
+@import './phone/categories.css';
+@import './phone/footer.css';
+/* Popup */
+
+@import './popup.css';
+* {
+  margin: 0;
+  font-family: Lato;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 678px) {
+  body {
+    display: flex;
+    width: 100wh;
+  }
+}
+
+html {
+  background-color: #181818;
+}
+
+div.header_1 {
+  margin-top: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
