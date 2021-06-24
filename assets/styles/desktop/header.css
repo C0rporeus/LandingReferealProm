@@ -21,15 +21,15 @@
   }
   .logo {
     width: 200px;
-    margin: 10px 25px;
+    margin: 21px 25px;
   }
   .search {
     height: 43px;
-    width: 45%;
+    width: 35%;
     margin: 10px 0px 10px 5px;
-    color: #d49d9d;
+    color: #3b3b3b;
     font-size: 16px;
-    background: #3C3C3C;
+    background: #ffffff;
     border-radius: 7px 0px 0px 7px;
     text-decoration: none;
     appearance: none;
@@ -38,21 +38,24 @@
     outline: none;
   }
   .search::placeholder {
-    color: #a07c7c;
+    color: #3B3B3B;
   }
   .btn_search {
-    height: 49px;
-    background: #E86363;
+    height: 46px;
+    background: rgb(127, 180, 84);
+    position: relative;
     border-radius: 0px 7px 7px 0px;
-    width: 60px;
+    width: 100px;
     text-decoration: none;
     cursor: pointer;
     text-shadow: none;
     transition: width 125ms;
     margin-top: 2px;
+    padding: 4px;
+    text-align: center;
   }
   .btn_search:hover {
-    background: #ce5a5a;
+    background: #629e2a;
   }
   .material-icons {
     background: none;
@@ -74,13 +77,13 @@
   }
   ul {
     list-style-type: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 20px 0px 0px;
   }
   .nav li {
     display: inline;
     padding: 0 20px;
-    font-size: 13px;
+    font-size: 18px;
   }
   .arrow {
     display: contents;

@@ -16,7 +16,7 @@
 
 <body id="app">
   <section class="callToAction">
-    <h2>Butter Single album whit FREE SHIPPING WORLDWIDE. <a class="buttonCall" href="#popup">Register now</a></h2>
+    <h2>Butter Single album whit PREORDER. <a class="buttonCall" href="#popup">GET IT NOW</a></h2>
   </section>
   <section id="popup" class="popup">
     <div class="wrapperPopoUp">
@@ -32,53 +32,39 @@
   <header>
     <div class="header_1">
       <img class="logo" src="./assets/images/LOGO-KS5.png" alt="logo" />
-      <input class="search" type="text" placeholder="What are you looking for?" />
-      <button class="btn_search">
-        <span class="material-icons md-light">search</span>
-      </button>
-      <svg width="60" height="40" viewBox="0 0 60 40">
-        <path fill="currentColor" fill-rule="evenodd" transform="translate(-263.000000, -117.000000)" d="M289,151.5 C289,154.537566 286.537566,157 283.5,157 C280.462434,157 278,154.537566 278,151.5 C278,151.331455 278.007581,151.164681 278.022422,151 L271,151 L271,140 L273,140 L273,149 L278.59971,149 C279.510065,147.219162 281.362657,146 283.5,146 C285.637343,146 287.489935,147.219162 288.40029,148.999999 L301,149 L301,119 L271,119 L271,117 L303,117 L303,126 L316.723739,126 C317.85789,126 318.895087,126.639588 319.404327,127.652985 L320.786845,130.404226 C322.242105,133.300224 323,136.496398 323,139.737476 L323,148 C323,149.656854 321.656854,151 320,151 L316.977578,151 C316.992419,151.164681 317,151.331455 317,151.5 C317,154.537566 314.537566,157 311.5,157 C308.462434,157 306,154.537566 306,151.5 C306,151.331455 306.007581,151.164681 306.022422,151 L288.977578,151 C288.992419,151.164681 289,151.331455 289,151.5 Z M319.417229,134.516568 L319.417798,134.118058 C319.418189,133.844298 319.362374,133.573373 319.253808,133.32206 L317.177681,128.516129 L310.567164,128.516129 C310.014879,128.516129 309.567164,128.963844 309.567164,129.516129 L309.567164,134.330091 C309.567164,134.882376 310.014879,135.330091 310.567164,135.330091 L318.602544,135.330091 C319.052028,135.330091 319.416588,134.966052 319.417229,134.516568 Z M311.5,155 C313.432997,155 315,153.432997 315,151.5 C315,149.567003 313.432997,148 311.5,148 C309.567003,148 308,149.567003 308,151.5 C308,153.432997 309.567003,155 311.5,155 Z M283.5,155 C285.432997,155 287,153.432997 287,151.5 C287,149.567003 285.432997,148 283.5,148 C281.567003,148 280,149.567003 280,151.5 C280,153.432997 281.567003,155 283.5,155 Z M264,123 L280,123 C280.552285,123 281,123.447715 281,124 C281,124.552285 280.552285,125 280,125 L264,125 C263.447715,125 263,124.552285 263,124 C263,123.447715 263.447715,123 264,123 Z M267,128 L280,128 C280.552285,128 281,128.447715 281,129 C281,129.552285 280.552285,130 280,130 L267,130 C266.447715,130 266,129.552285 266,129 C266,128.447715 266.447715,128 267,128 Z M271,133 L280,133 C280.552285,133 281,133.447715 281,134 C281,134.552285 280.552285,135 280,135 L271,135 C270.447715,135 270,134.552285 270,134 C270,133.447715 270.447715,133 271,133 Z"></path>
-      </svg>
-      <p class="shipping">Free International Shipping</p>
-      <svg aria-hidden="true" focusable="false" role="presentation" width="28" height="26" viewBox="0 10 28 26" xmlns="http://www.w3.org/2000/svg">
-        <path fill="currentColor" fill-rule="evenodd" d="M26.15 14.488L6.977 13.59l-.666-2.661C6.159 10.37 5.704 10 5.127 10H1.213C.547 10 0 10.558 0 11.238c0 .68.547 1.238 1.213 1.238h2.974l3.337 13.249-.82 3.465c-.092.371 0 .774.212 1.053.243.31.576.465.94.465H22.72c.667 0 1.214-.558 1.214-1.239 0-.68-.547-1.238-1.214-1.238H9.434l.333-1.423 12.135-.589c.455-.03.85-.31 1.032-.712l4.247-9.286c.181-.34.151-.774-.06-1.144-.212-.34-.577-.589-.97-.589zM22.297 36c-1.256 0-2.275-1.04-2.275-2.321 0-1.282 1.019-2.322 2.275-2.322s2.275 1.04 2.275 2.322c0 1.281-1.02 2.321-2.275 2.321zM10.92 33.679C10.92 34.96 9.9 36 8.646 36 7.39 36 6.37 34.96 6.37 33.679c0-1.282 1.019-2.322 2.275-2.322s2.275 1.04 2.275 2.322z"></path>
-      </svg>
+      <input class="search" type="text" placeholder="BTS, BLACKPINK, EXO, TWICE BOX KITS AND MORE" />
+      <a class="btn_search" href="#popup">
+        <span style="font-size:16px; font-weight:900;color:white;">GET IT NOW</span>
+      </a>
+      <a href="https://wa.me/573154105007" target="_blank"><img src="./assets/images/2071331.svg" alt="whatsapp" style="width:110px;" /></a>
     </div>
     <div class="header_2 container">
       <nav class="nav">
         <ul>
           <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Home</a>
+            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">BlackPink Shop</a>
           </li>
           <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Blackpink Merch</a>
-            <span class="material-icons md-light arrow">expand_more</span>
+            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Stray BTS Shop</a>
           </li>
           <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Stray Kids Shop</a>
-          </li>
-          <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Ateez Shop</a>
+            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Kpop Oufits</a>
           </li>
           <li>
             <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-              BTS Shop</a><span class="material-icons md-light arrow">expand_more</span>
+              K-drsamas Shop</a>
           </li>
           <li>
             <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-              K-POP Albums</a><span class="material-icons md-light arrow">expand_more</span>
+              Anime SHOP</a>
           </li>
           <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-              MORE K-POP GROUPS</a><span class="material-icons md-light arrow">expand_more</span>
+            <a style="background:rgb(255, 183, 58); padding: 10px;" href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+              EBAY Shop</a>
           </li>
           <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-              Discover Kpopshop</a><span class="material-icons md-light arrow">expand_more</span>
-          </li>
-
-          <li>
-            <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">Anime Shop</a>
+            <a style="background:rgb(247, 123, 0); padding: 10px;" href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+              ALIEXPRESS Shop</a><span class="material-icons md-light arrow">expand_more</span>
           </li>
         </ul>
       </nav>
@@ -132,178 +118,167 @@
   </header>
   <div id="container" class="container">
     <section class="banner">
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <img src="./assets/images/769a7e55-bc9b-48ca-a95b-0404d98f4e17.jpg" alt="banner" /></a>
     </section>
     <section class="categories">
       <div class="containerCategories">
         <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-          <img src="./assets/images/sweatshirt.png" alt="" />
+          <img src="./assets/images/kpop outfits.png" alt="" />
           <div class="textCategories one">
-            <h4>Kpop T-shirts</h4>
-            <p>Kpop T-shirt Shipped From USA</p>
+            <h4>KPOP OUTFITS</h4>
+
           </div>
         </a>
       </div>
       <div class="containerCategories">
         <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-          <img src="./assets/images/trust-blackpink.png" alt="buso" />
+          <img src="./assets/images/kpop casual wear.png" alt="buso" />
           <div class="textCategories two">
-            <h4>Kpop Hoodies</h4>
-            <p>Kpop Hoodies Shipped From USA</p>
+            <h4>KPOP CASUAL WEAR</h4>
+
           </div>
         </a>
       </div>
       <div class="containerCategories">
         <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-          <img src="./assets/images/kpop-sexy-dress.png" alt="CD" />
+          <img src="./assets/images/kpop special edition.png" alt="CD" />
           <div class="textCategories three">
-            <h4>Kpop CD Player</h4>
-            <p>The most have product of all Kpop fans</p>
+            <h4>KPOP SPECIAL EDITIONS</h4>
+
           </div>
         </a>
       </div>
       <div class="containerCategories">
         <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
-          <img src="./assets/images/bts-tshirt.png" alt="" />
+          <img src="./assets/images/kpop fashion.png" alt="" />
           <div class="textCategories four">
-            <h4>Kpop Logos Merch</h4>
-            <p>For minimalists</p>
+            <h4>KPOP FASHION</h4>
+
           </div>
         </a>
       </div>
     </section>
     <div class="containerKpopIdols">
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <img style="
               width: 100%;
               padding-top: 20px;
-              height: 310px;
               object-fit: cover;
-            " src="./assets/images/New_Project_1634x662.png" alt="" />
-        <h4 style="
-              position: absolute;
-              bottom: 20px;
-              left: 20px;
-              font-size: 30px;
-              color: rgb(255, 255, 255);
-              font-weight: 900;
-            ">
-          KPOP IDOLS FASHION
-        </h4>
+            " src="./assets/images/New_Project_1634x662 EBAY.png" alt="" />
       </a>
     </div>
     <h3 style="margin-bottom: -50px">Daily Deals</h3>
     <section class="dailyDeals">
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="https://www.kpopletsgo.store/collections/moda-asiatica/products/camiseta-larga-estilo-de-moda-coreana-2018-estilo-femenino-harajuku?ref=81ecrsknhk" target="_blank">
         <div class="cardProduct">
-          <img src="./assets/images/t-shir-pink.jpg" alt="pink" />
+          <img src="./assets/images/HARAJUKU T SHIRT.png" alt="pink" />
           <h2 class="price">$29.99 USD</h2>
-          <h2>BLACKPINK Kpop Hoodie Wo...</h2>
+          <h2>HARAJUKU T-SHIRT</h2>
         </div>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/k-pop-albums/products/bts-world-ost-cd-poster-articulos-extra-oficiales?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/straykids.jpg" alt="other" />
+            <img src="./assets/images/BTS WORLD OST.png" alt="other" />
             <h2 class="priceProm">from $28.15 USD</h2>
-            <h2>Pullover Sweatshirt tshi...</h2>
+            <h2>BTS WORLD OST</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/k-pop-albums/products/bts-album-be-deluxe-edition-poster?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/letterpinkblack.jpg" alt="letter" />
+            <img src="./assets/images/BTS BE DELUXE.png" alt="letter" />
             <h2 class="price">$38.59 USD</h2>
-            <h2>BlackPink New Style Name...</h2>
+            <h2>BTS DELUXE</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/k-pop-albums/products/blackpink-1er-album-the-album-todas-las-versiones-4cd?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/bts.jpg" alt="bts" />
+            <img src="./assets/images/BLACKPINK THE ALBUM.png" alt="bts" />
             <h2 class="price">$29.98 USD</h2>
-            <h2>BTS Men Women Hoodies K-...</h2>
+            <h2>BLACKPINK ALBUM</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/accesorios/products/blackpink-set-de-mochila?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/boldpink.jpg" alt="bold" />
+            <img src="./assets/images/BLACKPINK BAG SET.png" alt="bold" />
             <h2 class="price">$38.59 USD</h2>
-            <h2>BlackPink New Design Hoo...</h2>
+            <h2>BLACKPINK SET BAG</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/accesorios/products/llaveros-kpop-fans-blackpink-exo-bts-twice-got7-nct?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/pink-buso-black.jpg" alt="bold" />
+            <img src="./assets/images/BLACKPINK LLAVERO.png" alt="bold" />
             <h2 class="price">$38.59 USD</h2>
-            <h2>BlackPink New Design Hoo...</h2>
+            <h2>BLACKPINK KEYGUARD</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/ropa/products/camiseta-fashion-street-moda-coreana-urbana-estilo-harajuku?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/2019-ATEEZ-Hooded-Sweatshirts-Kpop-ATEEZ-Hot-Sale-Hoodie-A-TEEnager-Z-Women-Long-Sleeve-Pullover_660x660.jpg" alt="bold" />
+            <img src="./assets/images/HARAJUKU BLACKWHITE.png" alt="bold" />
             <h2 class="priceProm">$32.15 USD</h2>
-            <h2>ATEEZ hooded Sweatshirt...</h2>
+            <h2>HARAYUKU BLACK</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/accesorios/products/gorra-de-jimin-2017-bts-fashion-idol-kpop?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/KPOP-TWICE-LOVELYS-Album-Hoodie-Hip-Hop-Casual-Loose-Hooded-Clothes-Pullover-Printed-Long-Sleeve-Sweatshirts.jpg_640x640_169fbcae-26e4-4a23-add8-7f33fdda6e87_640x640.jpg" alt="bold" />
+            <img src="./assets/images/GORRA JIMIN.png" alt="bold" />
             <h2 class="priceProm">$36.15 USD</h2>
-            <h2>KPOP TWICE LOVELYS Album...</h2>
+            <h2>JIMIN CAP</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/k-pop-albums/products/bts-map-of-the-soul-7?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/C4B2809DA510AB403A719A5A472D57B8_660x660.jpg" alt="bold" />
+            <img src="./assets/images/BTS MAP SOUL 7.png" alt="bold" />
             <h2 class="price">$27.18 USD</h2>
-            <h2>BTS Kpop Love Yourself Z...</h2>
+            <h2>BTS MAP SOUL 7</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/accesorios/products/brasalete-kpop-army-y-blink-bts-y-blackpink?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/New-K-POP-Kpop-Hoodie-Women-Hip-Hop-Black-Pink-Sweatshirt-Clothes-Kill-This-Love-Hooded_660x660.jpg" alt="bold" />
+            <img src="./assets/images/BRAZALETE ARMY.png" alt="bold" />
             <h2 class="priceProm">$25.15 USD</h2>
-            <h2>BlackPink Kpop Hoodie Wo...</h2>
+            <h2>BTS BRACELET</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/products/bts-light-stick-map-of-the-soul-edicion-especial?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/italian.jpg" alt="italian" />
+            <img src="./assets/images/BTS ARMY LIGHSTICK.png" alt="italian" />
             <h2 class="price">$38.59 USD</h2>
             <h2>Stray Kids Hoodie - Stra...</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/products/bts-butter-single-album-pre-orden?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/poster.jpg" alt="italian" />
+            <img src="./assets/images/BTS BUTTER ALBUM.png" alt="italian" />
             <h2 class="priceProm">$25.15 USD</h2>
-            <h2>BLACKPINK K-Pop Kpop Ice...</h2>
+            <h2>HARAYUKU BLACK</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/moda-asiatica/products/sudadera-black-kitten-kawaii?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/Kpop-Stray-Kids-Cropped-Hoodies-Newest-Fashion-Cat-Ear-Hoodies-Winter-Long-Sleeve-Casual-Pullover-Straykids_660x660.jpg" alt="italian" />
+            <img src="./assets/images/KPOP BLACK KITTEN KAWAII.png" alt="italian" />
             <h2 class="priceProm">from $20.15 USD</h2>
-            <h2>Kpop Stray Kids Cropped...</h2>
+            <h2>KPOP KITTEN KAWAII</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/moda-asiatica/products/playera-blacktipe-normal?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/K-Pop-KPOP-3D-Hoodie-Sweatshirt-Hoodies-Women-Persona-Lisa-Jisoo-Rose-Autograph-Signature-Printed-3D_660x660.jpg" alt="italian" />
+            <img src="./assets/images/KPOP PLAYERA.png" alt="italian" />
             <h2 class="priceProm">$28.15 USD</h2>
-            <h2>BlackPink 3D Hoodie Swea...</h2>
+            <h2>KPOP T-SHIRT</h2>
           </div>
         </a>
-        <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+        <a href="https://www.kpopletsgo.store/collections/moda-asiatica/products/chaqueta-dualbaseball-harajuku?ref=81ecrsknhk" target="_blank">
           <div class="cardProduct">
-            <img src="./assets/images/db1c864ec856fbbeddc733c60bc52f47_660x660.jpg" alt="italian" />
+            <img src="./assets/images/KPOP HARAJUKU.png" alt="italian" />
             <h2 class="price">$38.59 USD</h2>
-            <h2>BlackPink Love Design Ho...</h2>
+            <h2>JPOP HARAJUKU</h2>
           </div>
         </a>
     </section>
     <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0" style="
           display: block;
           margin-top: 100px;
-          background: #f76a6a;
+          background: rgb(127, 180, 84);
           color: white;
           font-size: 18px;
           padding: 15px;
@@ -318,106 +293,117 @@
     <section class="categories">
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="containerCategories">
-          <img src="./assets/images/wwwww_1330x749.png" alt="" />
+          <img src="./assets/images/kpop unboxing.png" alt="" />
           <div class="textCategories collection">
-            <h4>Kpop Posters</h4>
-            <p>Kpop T-shirt Shipped From USA</p>
+            <h4>JPOP UNBOXING</h4>
+
           </div>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+
+      <a href="#popup">
         <div class="containerCategories">
-          <img src="./assets/images/stickers.png" alt="buso" />
+          <img src="./assets/images/KPOP WHOLESALE BOX.png" alt="CD" />
           <div class="textCategories collection">
-            <h4>Kpop T-shirts</h4>
-            <p>Kpop T-shirt Shipped From USA</p>
+            <h4>KPOP WHOLESALE BOX</h4>
+
           </div>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div class="containerCategories">
-          <img src="./assets/images/kaaa_8_1_5_1330x660.jpg" alt="CD" />
+          <img src="./assets/images/BLACKPINK HOODIES AND T-SHIRTS BOX.png" alt="" />
           <div class="textCategories collection">
-            <h4>Kpop T-shirts</h4>
-            <p>Kpop T-shirt Shipped From USA</p>
+            <h4>BLACKPINK UNBOXING</h4>
+
           </div>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div class="containerCategories">
-          <img src="./assets/images/kaaa_8_1_2_1330x660.jpg" alt="" />
+          <img src="./assets/images/KOREAN WHOLESALE UNBOXING.png" alt="buso" />
           <div class="textCategories collection">
-            <h4>Kpop T-shirts</h4>
-            <p>Kpop T-shirt Shipped From USA</p>
+            <h4>KOREAN WHOLESALE UNBOXING</h4>
           </div>
         </div>
       </a>
     </section>
     <section class="categoriesOut">
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div>
-          <img src="./assets/images/New_Project_16_500x500.jpg" alt="" />
-          <p class="cardCategoriesTitle">Kpop Fashion</p>
+          <img src="./assets/images/500X500 LISA SWEATER.png" alt="" />
+          <p class="cardCategoriesTitle">LISA SWEATER</p>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div>
-          <img src="./assets/images/New_Project_14_500x500.jpg" alt="buso" />
-          <p class="cardCategoriesTitle">Kpop Fashion</p>
+          <img src="./assets/images/500X500 BTS FILA.png" alt="buso" />
+          <p class="cardCategoriesTitle">BTS FILA</p>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div>
-          <img src="./assets/images/New_Project_17_4079dfad-00b4-499b-b020-a068656c8fc9_500x500.jpg" alt="CD" />
-          <p class="cardCategoriesTitle">Kpop Fashion</p>
+          <img src="./assets/images/500X500 BLACKPINK KILL LOVE.png" alt="CD" />
+          <p class="cardCategoriesTitle">BLACKPINK KILL LOVE</p>
         </div>
       </a>
-      <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
+      <a href="#popup">
         <div>
-          <img src="./assets/images/calend.jpg" alt="calendar" />
-          <p class="cardCategoriesTitle">Kpop Fashion</p>
+          <img src="./assets/images/500X500 BLACKPINK HOODIE.png" alt="calendar" />
+          <p class="cardCategoriesTitle">BLACKPINK HOODIE</p>
         </div>
       </a>
     </section>
-    <h3 style="margin-bottom: -50px">Popular right now</h3>
+
     <section class="dailyDeals">
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="cardProduct">
-          <img src="./assets/images/Kpop-BLACKPINKs-Letter-Print-Messenger-Bag-Fashion-BLINK-Straddle-Bags-JISOO-JENNIE-LISA-ROS-Inclined-Shoulder_660x660.jpg" alt="pink" />
-          <h2 class="priceProm">$37.15 USD</h2>
-          <h2>Kpop BLACKPINKs Letter P...</h2>
+          <img src="./assets/images/ABAJO ARMY HOODIE.png" alt="pink" />
+
+          <p>ARMY HOODIE</p>
         </div>
       </a>
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="cardProduct">
-          <img src="./assets/images/2021-Album-Kpop-Butter-Hoodies-Women-Bangtan-Boys-Sweatshirts-JIN-SUGA-J-HOPE-JIMIN-V-JUNGKOOK_660x660.jpg" alt="other" />
-          <h2 class="priceProm">from $33.15 USD</h2>
-          <h2>2021 Album BTS Butter Ho...</h2>
+          <img src="./assets/images/ABAJO T-SHIRT KPOP.png" alt="other" />
+
+          <p>T-SHIRT KPOP</p>
         </div>
       </a>
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="cardProduct">
-          <img src="./assets/images/Butter-BTS-Hoodies-KPop-Bangtan-Boys-New-Albumn-Butter-Hoodie-Pullovers-Casual-Clothing-Style-Oversized-Hoodie_660x660.jpg" alt="letter" />
-          <h2 class="priceProm">$34.15 USD</h2>
-          <h2>Butter BTS Hoodies JPop...</h2>
+          <img src="./assets/images/ABAJO TWICE HOODIE.png" alt="letter" />
+
+          <P>TWICE HOODIE</P>
         </div>
       </a>
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="cardProduct">
-          <img src="./assets/images/Kpop-BANGTAN-BOYS-Backpacks-4pcs-Set-BUTTER-series-Girls-School-Bag-BT21-Casual-Cartoon-Cute-Print_660x660.jpg" alt="bts" />
-          <h2 class="priceProm">$41.15 USD</h2>
-          <h2>Kpop BTS BANGTAN BOYS Ba...</h2>
+          <img src="./assets/images/ABAJO KPOP HOODIE.png" alt="bts" />
+
+          <P>KPOP HOODIE</P>
         </div>
       </a>
       <a href="https://kpopshop.com?sca_ref=865377.vBFbY4DKS0">
         <div class="cardProduct">
-          <img src="./assets/images/NEW-Bangtan-boys-BUTTER-backpack-student-color-school-bag-BT21-fashion-printing-outdoor-leisure-travel-bag_660x660.jpg" alt="bold" />
-          <h2 class="priceProm">$36.15 USD</h2>
-          <h2>NEW BTS Bangtan boys BUT...</h2>
+          <img src="./assets/images/ABAJO BUTTER BAG.png" alt="bold" />
+
+          <p>BUTTER BAG</p>
         </div>
       </a>
     </section>
   </div>
+  <section id="formulario" class="formulario">
+    <div class="wrapperForm">
+      <form action="form2.php" method="POST" class="form" id="contact-form">
+        <input name="tiktok" type="text" placeholder="TikTok Username" />
+        <input name="email" type="email" placeholder="E-mail" />
+        <input name="message" type="text" placeholder="Message" />
+        <input class="submit" type="submit" value="Send" />
+      </form>
+      <p style="color:white;"> Contact with us for business </p>
+    </div>
+  </section>
   <footer>
     <div class="footer container">
       <!--Firts segment footer-->

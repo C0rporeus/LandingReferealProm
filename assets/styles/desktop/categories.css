@@ -76,19 +76,18 @@
     position: absolute;
     padding-bottom: 18px;
     padding-left: 18px;
-    margin-top: -77px;
+    margin-top: -46px;
   }
   .one, .two, .three, .four {
-    color: #1f1f1f;
+    color: #ffffff;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.418);
   }
   .collection {
     color: whitesmoke;
   }
   .cardCategoriesTitle {
     margin-top: 20px;
-    color: #FF9F98;
+    color: whitesmoke;
     text-align: center;
     font-weight: 600;
   }

@@ -31,13 +31,13 @@ if (!empty($_POST)) {
     $mail->isSMTP();
     $mail->Host = 'smtp.mailtrap.io';
     $mail->SMTPAuth = true;
-    $mail->Username = '';
-    $mail->Password = '';
+    $mail->Username = '69988cb8ff2994';
+    $mail->Password = 'e96ed7bf543f73';
     //$mail->SMTPSecure = 'tls';
     $mail->Port = 465;
 
     $mail->setFrom($email, 'KpopShops');
-    $mail->addAddress('random@outlook.es', 'Rember');
+    $mail->addAddress('support@kpopshops.com', 'Support KPOP SHOPS');
     $mail->Subject = 'Nuevo inscrito';
 
     // Enable HTML if needed
