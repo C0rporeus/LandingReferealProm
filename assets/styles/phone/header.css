@@ -1,6 +1,6 @@
 @media screen and (max-width: 768px) {
   html {
-    width: 100wh;
+    width: 100%;
   }
   header {
     /*display: block;*/
@@ -15,8 +15,12 @@
   .header_1 {
     display: none;
   }
-  svg {
-    color: aliceblue;
+  .wrapperPopoUp .close {
+    position: absolute;
+    top: 20px;
+    right: 15px !important;
+  }
+  .cart img {
     height: 27px;
     background: none
   }
@@ -130,7 +134,7 @@
   }
   .wrapperPhone {
     display: grid;
-    grid-template-columns: 35% 54% 0%;
+    grid-template-columns: 25% 40% 0%;
   }
   .logoPhone {
     align-items: center;
@@ -142,6 +146,7 @@
   }
   .cart {
     margin-top: 20px;
+    display: flex;
   }
 }
 

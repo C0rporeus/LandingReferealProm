@@ -5,7 +5,7 @@
   position: fixed;
   width: 100%;
   z-index: 9;
-  margin-top: -40px;
+  margin-top: -50px;
 }
 
 .callToAction h2 {
@@ -75,36 +75,36 @@
   color: #44a82b;
 }
 
-.formulario {
-  display: block;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 11;
-}
-
-.formulario input {
-  height: 40px;
-  margin: 10px;
-}
-
-.wrapperForm {
-  margin: 70px auto;
-  padding: 20px;
-  background: rgb(65, 65, 65);
-  border-radius: 5px;
-  width: 80%;
-  position: relative;
-  transition: all 5s ease-in-out;
-  align-items: center;
-  text-align: center;
-}
-
 .submit {
   width: 100px;
   background: #38c443;
   color: whitesmoke;
+}
+
+@media screen and (min-width: 1280px) {
+  .formulario {
+    display: block;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 11;
+  }
+  .formulario input {
+    height: 40px;
+    margin: 10px;
+  }
+  .wrapperForm {
+    margin: 70px auto;
+    padding: 20px;
+    background: rgb(65, 65, 65);
+    border-radius: 5px;
+    width: 80%;
+    position: relative;
+    transition: all 5s ease-in-out;
+    align-items: center;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 768px) {

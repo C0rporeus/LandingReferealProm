@@ -59,4 +59,11 @@
   a.social-link {
     text-decoration: none;
   }
+  .thanks {
+    text-align: center;
+  }
+  .thanks h1 {
+    color: whitesmoke;
+    padding-bottom: 20px;
+  }
 }

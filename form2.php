@@ -29,16 +29,18 @@ if (!empty($_POST)) {
     $mail = new PHPMailer();
 
     // specify SMTP credentials
+    // specify SMTP credentials
     $mail->isSMTP();
-    $mail->Host = 'smtp.mailtrap.io';
+    $mail->SMTPDebug  = 1;
+    $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = '';
     $mail->Password = '';
-    //$mail->SMTPSecure = 'tls';
+    $mail->SMTPSecure = 'tls';
     $mail->Port = 465;
 
-    $mail->setFrom($email, 'KpopShops');
-    $mail->addAddress('support@kpopshops.com', 'Support KPOP SHOPS');
+    $mail->setFrom('');
+    $mail->addAddress('', '');
     $mail->Subject = 'Nuevo mensaje de formulario';
 
     // Enable HTML if needed

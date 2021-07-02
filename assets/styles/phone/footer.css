@@ -2,4 +2,15 @@
   footer {
     display: none;
   }
+  .thanks {
+    position: relative;
+    text-align: center;
+  }
+  .thanks h1 {
+    color: whitesmoke;
+    padding-bottom: 20px;
+  }
+  .thanks img {
+    width: 100%;
+  }
 }
